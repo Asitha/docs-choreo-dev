@@ -41,6 +41,7 @@ For more information on how to use VS Code dev containers, please refer to the o
 To start the server and view the site on your local server, run the following command:
 
     ```shell
+    $ cd en
     $ mkdocs serve
     ```
 
